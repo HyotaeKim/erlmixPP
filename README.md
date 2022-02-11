@@ -8,7 +8,7 @@ Erlang mixture modeling for Poisson process intensities.
 
 ## Installation
 
-You can install the development version of erlmixPP like so:
+You can install the package with the following R-commnand:
 
 ``` r
 remotes::install_github("HyotaeKim/erlmixPP")
