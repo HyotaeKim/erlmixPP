@@ -50,6 +50,7 @@ ts.plot(post.samp$c0.H)
 ts.plot(post.samp$b.H0)
 
 # evaluating prior and posterior intensities
+library(bayesmeta)
 post.samp$pri.theta <- post.samp$pri.H <- NULL
 for(i in 1:length(post.samp$theta)){
   pri.theta <- rlomax(1,pri.param$a.theta,pri.param$b.theta)
