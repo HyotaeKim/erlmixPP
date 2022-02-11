@@ -4,7 +4,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-Erlang mixture modeling for Poisson process intensities.
+Poisson process intensity estimation via Erlang mixture models.
 
 ## Installation
 
