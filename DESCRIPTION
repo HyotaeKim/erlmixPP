@@ -1,0 +1,13 @@
+Package: erlmixPP
+Type: Package
+Title: Erlang mixture modeling for Poisson process intensities
+Version: 0.1.0
+Author: Hyotae Kim <hkim153@ucsc.edu>
+Maintainer: Hyotae Kim <hkim153@ucsc.edu>
+Description: Nonhomogeneous Poisson Process sampler and MCMC on Erlang mixture models for NHPPs. 
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: mathjaxr
+Remotes: wviechtb/mathjaxr
+RdMacros: mathjaxr

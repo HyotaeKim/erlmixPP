@@ -1,0 +1,4 @@
+exportPattern("^[[:alpha:]]+")
+import(mathjaxr)
+importFrom("stats", "dgamma", "pgamma", "pweibull", "qweibull",
+               "rgamma", "rnorm", "rpois", "runif")
