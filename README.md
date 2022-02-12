@@ -6,6 +6,11 @@
 
 Poisson process intensity estimation via Erlang mixture models.
 
+
+## Reference
+Hyotae Kim and Athanasios Kottas (2022). Erlang mixture modeling for Poisson process intensities. Statistics and Computing, 32 (1), 1-15.
+
+
 ## Installation
 
 You can install the package with the following R-commnand:
